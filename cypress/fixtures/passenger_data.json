@@ -1,19 +1,19 @@
 {
-  "TRAIN_NO": "12559",
+  "TRAIN_NO": "07005",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/07/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAVEL_DATE": "31/07/2024",
+  "SOURCE_STATION": "BJU",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
+  "DESTINATION_STATION": "DBG",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Priyanshu Kumar",
+      "AGE": 18,
       "GENDER": "Male",
-      "SEAT": "No Preference",
+      "SEAT": "Upper",
       "FOOD": "No Food"
     },
     {
